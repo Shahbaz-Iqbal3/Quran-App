@@ -1,6 +1,6 @@
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
-var url = '../docs/quran-3-21.pdf';
+var url = 'https://peaceful-salmiakki-320517.netlify.app/para2_cropped.pdf';
 
 // Loaded via <script> tag, cre  ate shortcut to access PDF.js exports.
 var pdfjsLib = window['pdfjs-dist/build/pdf'];
